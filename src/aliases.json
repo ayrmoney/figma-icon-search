@@ -756,8 +756,8 @@
         "social",
         "waving"
     ],
-    "emoji_symbols": [
-        "ampersand",
+    "ampersand": [
+        "emoji_symbols",
         "character",
         "emoji",
         "hieroglyph",
@@ -765,7 +765,8 @@
         "note",
         "percent",
         "sign",
-        "symbols"
+        "symbols",
+        "and"
     ],
     "emoji_transportation": [
         "architecture",
